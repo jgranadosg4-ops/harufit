@@ -1,0 +1,13 @@
+{
+  "name": "HaruFit!",
+  "short_name": "HaruFit!",
+  "description": "App personal de gym con Haru",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080c14",
+  "theme_color": "#080c14",
+  "icons": [
+    { "src": "HaruFit.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "HaruFit.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
